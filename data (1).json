@@ -1,0 +1,87 @@
+{
+  "studio": {
+    "name": "Tattoo 96 Studio",
+    "tagline": "Dein Tattoo. Deine Geschichte.",
+    "description": "Premium Tattoo Studio im Herzen Münchens. Wir verbinden Leidenschaft, Kunst und höchste Qualität – jedes Tattoo ist ein einzigartiges Meisterwerk, das auf deiner Haut lebt.",
+    "rating": 5.0,
+    "reviewCount": 49,
+    "phone": "01512 4970175",
+    "address": {
+      "street": "Damenstiftstraße 18",
+      "city": "München",
+      "zip": "80331",
+      "country": "Deutschland",
+      "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2662.547!2d11.5714!3d48.1365!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479e75f3b2f7a9d1%3A0x1!2sDamenstiftstra%C3%9Fe+18%2C+80331+M%C3%BCnchen!5e0!3m2!1sde!2sde!4v1"
+    },
+    "openingHours": [
+      { "day": "Montag", "hours": "12:00–20:00", "open": true },
+      { "day": "Dienstag", "hours": "12:00–20:00", "open": true },
+      { "day": "Mittwoch", "hours": "12:00–20:00", "open": true },
+      { "day": "Donnerstag", "hours": "12:00–20:00", "open": true },
+      { "day": "Freitag", "hours": "12:00–20:00", "open": true },
+      { "day": "Samstag", "hours": "12:00–20:00", "open": true },
+      { "day": "Sonntag", "hours": "Geschlossen", "open": false }
+    ],
+    "social": {
+      "instagram": "https://www.instagram.com/",
+      "facebook": "https://www.facebook.com/",
+      "tiktok": "https://www.tiktok.com/"
+    },
+    "styles": [
+      { "name": "Realism", "icon": "◉", "desc": "Fotorealistische Motive mit atemberaubender Detailtiefe" },
+      { "name": "Black & Grey", "icon": "◐", "desc": "Zeitlose Schwarz-Grau-Kunst für jeden Körperteil" },
+      { "name": "Old School", "icon": "⚓", "desc": "Klassische Motive mit kräftigen Linien & lebhaften Farben" },
+      { "name": "Neo Traditional", "icon": "✦", "desc": "Moderner Stil mit dekorativen Elementen & satten Farben" },
+      { "name": "Fine Line", "icon": "∼", "desc": "Zarte, präzise Linienarbeit für elegante Designs" },
+      { "name": "Cover-Up", "icon": "◈", "desc": "Professionelle Überarbeitung bestehender Tattoos" }
+    ],
+    "reviews": [
+      {
+        "author": "Max K.",
+        "rating": 5,
+        "date": "März 2025",
+        "text": "Absolut begeistert! Das Studio ist sauber, modern und das Team extrem freundlich. Mein Tattoo ist ein echtes Kunstwerk geworden. Volle 5 Sterne ohne Zögern!",
+        "avatar": "M"
+      },
+      {
+        "author": "Julia S.",
+        "rating": 5,
+        "date": "Februar 2025",
+        "text": "Bestes Tattoo Studio in München! Professionelle Beratung, top Hygiene und das Ergebnis hat meine Erwartungen weit übertroffen. Komme definitiv wieder!",
+        "avatar": "J"
+      },
+      {
+        "author": "Thomas B.",
+        "rating": 5,
+        "date": "Januar 2025",
+        "text": "Von der Beratung bis zum fertigen Tattoo alles perfekt. Die Atmosphäre ist entspannt und das Team macht einen wirklich wohl fühlen. Danke für das tolle Erlebnis!",
+        "avatar": "T"
+      },
+      {
+        "author": "Sarah M.",
+        "rating": 5,
+        "date": "Dezember 2024",
+        "text": "Mein erstes Tattoo und ich könnte nicht glücklicher sein! Super freundliches Team, das mir alle Ängste genommen hat. Das Studio ist top gepflegt. Absolute Empfehlung!",
+        "avatar": "S"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Wie buche ich einen Termin?",
+        "a": "Ruf uns an unter 01512 4970175 oder komm direkt im Studio vorbei. Walk-Ins sind willkommen, wenn es die Auslastung erlaubt."
+      },
+      {
+        "q": "Was kostet ein Tattoo?",
+        "a": "Die Preise variieren je nach Größe, Komplexität und Platzierung. Kontaktiere uns für eine persönliche Beratung und ein individuelles Angebot."
+      },
+      {
+        "q": "Wie bereite ich mich auf mein Tattoo vor?",
+        "a": "Komm ausgeruht, gut gegessen und mit sauberer Haut. Vermeide Alkohol 24 Stunden vorher. Trage bequeme Kleidung, die leichten Zugang zur Tätowierungsstelle ermöglicht."
+      },
+      {
+        "q": "Wie lange dauert die Heilung?",
+        "a": "Die Oberhaut heilt in 2–3 Wochen, die tieferen Hautschichten in 2–3 Monaten. Wir geben dir alle Pflegehinweise mit auf den Weg."
+      }
+    ]
+  }
+}
